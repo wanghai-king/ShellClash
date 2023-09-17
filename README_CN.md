@@ -8,7 +8,7 @@
 	<a target="_blank" href="https://github.com/Dreamacro/clash/releases">
     <img src="https://img.shields.io/github/release/Dreamacro/Clash.svg?style=flat-square&label=Clash">
   </a>
-  <a target="_blank" href="https://github.com/juewuy/ShellClash/releases">
+  <a target="_blank" href="https://github.com/wanghai-king/ShellClash/releases">
     <img src="https://img.shields.io/github/release/juewuy/ShellClash.svg?style=flat-square&label=ShellClash&colorB=green">
   </a>
 </p>
@@ -65,7 +65,7 @@ export url='https://gh.jwsc.eu.org/master' && bash -c "$(curl -kfsSl $url/instal
 
 ```shell
 #GitHub源(可能需要代理)
-export url='https://raw.githubusercontent.com/juewuy/ShellClash/master' && sh -c "$(curl -kfsSl $url/install.sh)" && source /etc/profile &> /dev/null
+export url='https://raw.githubusercontent.com/wanghai-king/ShellClash/master' && sh -c "$(curl -kfsSl $url/install.sh)" && source /etc/profile &> /dev/null
 ```
 或者
 ```shell
