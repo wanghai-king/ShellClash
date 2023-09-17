@@ -82,7 +82,7 @@ export url='https://gh.jwsc.eu.org/master' && sh -c "$(curl -kfsSl $url/install.
 
 ```Shell
 #GitHub源(可能需要代理)
-export url='https://raw.githubusercontent.com/juewuy/ShellClash/master' && wget -q --no-check-certificate -O /tmp/install.sh $url/install.sh  && sh /tmp/install.sh && source /etc/profile &> /dev/null
+export url='https://raw.githubusercontent.com/wanghai-king/ShellClash/master' && wget -q --no-check-certificate -O /tmp/install.sh $url/install.sh  && sh /tmp/install.sh && source /etc/profile &> /dev/null
 ```
 或者
 ```shell
